@@ -1,0 +1,11 @@
+Analizeaza proiectul si 
+
+Pentru acest rand dinamic 
+<input type="text" name="dec_dinamicTable_row_cd[1]" id="dec_dinamicTable_row_cd-1" field="dec_dinamicTable_row_cd" class="table number input-um text" maxlength="15" value="" row-index="1">
+
+dec_dinamicTable_row_cd
+
+Cand se creaza raportul deja este acest si rand - adica variabila - de creat in js o functionalitatea - sa fie doar citire - sa nu se poata face modificari 
+sau inserari
+
+Functionalitatea  trebuie de adaugat in fisirul js - 
